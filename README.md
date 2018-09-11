@@ -1,0 +1,2 @@
+# mysnips
+Snippets for ultisnips
